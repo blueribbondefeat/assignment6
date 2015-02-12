@@ -1,0 +1,25 @@
+/*body*/
+body {
+	background-color: white;
+	/*text-align: center;*/
+	margin-left: 40px;
+
+}
+
+.block {
+	background-color: darkgrey;
+	height: 80px;
+	margin: 11px;
+}
+
+h4 {
+	text-align: center;
+	line-height: 20px;
+}
+
+p {
+	background-color: white;
+	height: 24px;
+	width: 140px;
+	margin-left: 480px;
+}
